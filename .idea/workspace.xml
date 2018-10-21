@@ -12,42 +12,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/pythonCode$_.coverage" NAME="老王开枪_方法调用 Coverage Results" MODIFIED="1540038615821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonCode$class.coverage" NAME="class进阶 Coverage Results" MODIFIED="1540112774392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonCode$_.coverage" NAME="老王开枪_方法调用 Coverage Results" MODIFIED="1540103819205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pythonCode$cookies_.coverage" NAME="cookies 的使用方法 Coverage Results" MODIFIED="1540049988526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="老王开枪_方法调用.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/老王开枪_方法调用.py">
+    <leaf>
+      <file leaf-file-name="class进阶.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/class进阶.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="158" column="18" selection-start-line="158" selection-start-column="18" selection-end-line="158" selection-end-column="18" />
+            <state relative-caret-position="230">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cookies 的使用方法.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cookies 的使用方法.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-              <folding>
-                <element signature="e#14#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="class进阶.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/class进阶.txt">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file leaf-file-name="unittest测试登录页面.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unittest测试登录页面.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-144">
-              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="23" />
               <folding>
                 <element signature="e#47#62#0" expanded="true" />
               </folding>
@@ -73,6 +57,7 @@
         <option value="$PROJECT_DIR$/老王开枪_方法调用.py" />
         <option value="$PROJECT_DIR$/unittest测试登录页面.py" />
         <option value="$PROJECT_DIR$/cookies 的使用方法.py" />
+        <option value="$PROJECT_DIR$/class进阶.py" />
       </list>
     </option>
   </component>
@@ -85,7 +70,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-131" />
     <option name="y" value="9" />
     <option name="width" value="1038" />
@@ -129,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cookies 的使用方法">
+  <component name="RunManager" selected="Python.class进阶">
     <configuration name="老王开枪_方法调用" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,6 +129,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/老王开枪_方法调用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="class进阶" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class进阶.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +175,13 @@
     <list>
       <item itemvalue="Python.老王开枪_方法调用" />
       <item itemvalue="Python.cookies 的使用方法" />
+      <item itemvalue="Python.class进阶" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.cookies 的使用方法" />
+        <item itemvalue="Python.class进阶" />
         <item itemvalue="Python.老王开枪_方法调用" />
+        <item itemvalue="Python.cookies 的使用方法" />
       </list>
     </recent_temporary>
   </component>
@@ -193,17 +199,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289256" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1913767" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3289256" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289256" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289256" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19742814" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -229,6 +235,33 @@
     <entry file="file://$PROJECT_DIR$/老王开枪_方法调用.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2844">
+          <caret line="158" column="18" selection-start-line="158" selection-start-column="18" selection-end-line="158" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookies 的使用方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest测试登录页面.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding>
+            <element signature="e#47#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class进阶.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/老王开枪_方法调用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2844">
           <caret line="158" column="18" lean-forward="true" selection-start-line="158" selection-start-column="18" selection-end-line="158" selection-end-column="18" />
         </state>
       </provider>
@@ -237,6 +270,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class进阶.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cookies 的使用方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -249,26 +296,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unittest测试登录页面.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        <state>
+          <caret selection-end-line="1" selection-end-column="23" />
           <folding>
             <element signature="e#47#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cookies 的使用方法.py">
+    <entry file="file://$PROJECT_DIR$/class进阶.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding>
-            <element signature="e#14#29#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="230">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class进阶.txt">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

@@ -1,4 +1,4 @@
-﻿#coding=utf-8
+#coding=utf-8
 import time
 """定义一个计时装饰器用来计时函数执行时间"""
 

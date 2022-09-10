@@ -2370,6 +2370,6 @@ numlegs=94
 solutions=solve(numheads,numlegs)
 print solutions
 
-#----------------------------------------#
+#-----------------------------------------#
 
 
